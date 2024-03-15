@@ -18,3 +18,8 @@ https://portal.azure.com/#create/Microsoft.VirtualMachine
 https://portal.azure.com/#create/Microsoft.VirtualMachine-ARM
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/ce94ef22-acaf-44de-a648-0740d7270f7e)
+
+#Criação de um Grupo de recursos
+https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/608d7f94-6f3b-4e39-a16c-79506bad9b02)
