@@ -13,3 +13,8 @@ https://learn.microsoft.com/pt-br/training/paths/describe-azure-management-gover
 https://portal.azure.com/#create/Microsoft.VirtualMachine
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/190b08b7-0229-471a-ba63-ca3270df8723)
+
+#Configurando uma instancia VMware no Azure e configurando suas particularidades como Rede, Discos, SLA, etc
+https://portal.azure.com/#create/Microsoft.VirtualMachine-ARM
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/ce94ef22-acaf-44de-a648-0740d7270f7e)
