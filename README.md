@@ -23,3 +23,17 @@ https://portal.azure.com/#create/Microsoft.VirtualMachine-ARM
 https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/608d7f94-6f3b-4e39-a16c-79506bad9b02)
+
+#Laboratório para criar maquinas virtuais
+https://portal.azure.com/#create/Microsoft.VirtualMachine-ARM
+
+#Criação de VMS
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/3346a291-e833-4e78-baee-1a889825e83c)
+
+#Criação de UPscale
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/ce532196-7e2f-4914-86a9-a8864bec975f)
+
+#Scale Setup
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/8fef3ac3-199a-4aff-bda8-3923d015a589)
+
+
