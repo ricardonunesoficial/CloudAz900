@@ -36,4 +36,13 @@ https://portal.azure.com/#create/Microsoft.VirtualMachine-ARM
 #Scale Setup
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/8fef3ac3-199a-4aff-bda8-3923d015a589)
 
+#Criação de Blobs, Files, Tables, compartilhamento, etc
+https://portal.azure.com/#create/Microsoft.StorageAccount-ARM
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/102d58dd-49b1-4769-9766-55ddda189a3d)
+
+#Estrategia para migrar para Azure
+https://portal.azure.com/#view/Microsoft_Azure_Migrate/AmhResourceMenuBlade/~/getStarted
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/e7b99af8-b396-45bb-bfea-fbf16f815713)
 
