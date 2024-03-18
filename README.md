@@ -57,5 +57,16 @@ https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/9785cdd6-bbd7-407c-bf21-a8cca5f04a14)
 
 #Ciar recursos de boas praticas
-
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/49435e8a-9eac-4511-a2a0-083ccfbbc404)
+
+#Analise de custo com TCO
+https://azure.microsoft.com/pt-br/pricing/tco/calculator/
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/7c3f207f-521d-4512-b40f-8076bd244122)
+
+#Analise de custo com a Calculadora
+https://azure.microsoft.com/pt-br/pricing/calculator/
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/780e3bdb-70d0-4b85-a69d-a5f0fb0c57d3)
+
+
