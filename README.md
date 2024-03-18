@@ -46,3 +46,16 @@ https://portal.azure.com/#view/Microsoft_Azure_Migrate/AmhResourceMenuBlade/~/ge
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/e7b99af8-b396-45bb-bfea-fbf16f815713)
 
+#Estrategia para segurança com o Azure ENTRA ID
+https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview  
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/716c3335-f4b4-4bb2-aa6d-7d71d172fad9)
+
+#Estrategia de monitoramento via Defende
+https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/9785cdd6-bbd7-407c-bf21-a8cca5f04a14)
+
+#Ciar recursos de boas praticas
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/49435e8a-9eac-4511-a2a0-083ccfbbc404)
