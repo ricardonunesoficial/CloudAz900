@@ -69,4 +69,13 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/780e3bdb-70d0-4b85-a69d-a5f0fb0c57d3)
 
+#Estudo sobre Police Group e Gerenciamento de riscos
+https://portal.azure.com/#@rcinhotmail.onmicrosoft.com/resource/subscriptions/edf99161-2350-4b2a-9d22-5fd66bab4dde/resourceGroups/DIO_AZ900_ESTUDOS/locks
 
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/88da0a07-f6cc-4e4d-a3a7-8b3601a6329e)
+
+
+#Guia de Policy
+https://portal.azure.com/#view/Microsoft_Azure_Policy/PolicyMenuBlade/~/Overview
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/dacb54f2-d2bf-4102-8570-59986e143ecd)
