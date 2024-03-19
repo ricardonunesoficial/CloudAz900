@@ -74,8 +74,27 @@ https://portal.azure.com/#@rcinhotmail.onmicrosoft.com/resource/subscriptions/ed
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/88da0a07-f6cc-4e4d-a3a7-8b3601a6329e)
 
-
 #Guia de Policy
 https://portal.azure.com/#view/Microsoft_Azure_Policy/PolicyMenuBlade/~/Overview
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/dacb54f2-d2bf-4102-8570-59986e143ecd)
+
+#Criando maquias em produção com Scripts, Usando Portal
+https://portal.azure.com/#home
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/1dcb015d-4417-47e1-b0fd-590f9339d25f)
+
+#Criando maquias em produção com Scripts
+https://portal.azure.com/#home
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/26637ee0-f027-49f9-bf0d-0a7c88e60964)
+
+#Criando recursos no Azure usando o Bicep
+https://azure.github.io/bicep/
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/522af452-a175-4908-97b1-cb15ef3db8b2)
+
+#Usando o ARC (gestão de ativos fora da Azure
+https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/infrastructure
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/7e64c3bd-3526-44eb-addb-12cb38c2ca77)
