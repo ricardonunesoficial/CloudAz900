@@ -98,3 +98,15 @@ https://azure.github.io/bicep/
 https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/infrastructure
 
 ![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/7e64c3bd-3526-44eb-addb-12cb38c2ca77)
+
+#Usando o monitoramento ao nosso favor.
+https://portal.azure.com/?source=akams%2F#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/networkInsights
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/7c24425c-388b-4662-b887-aae0f9401038)
+
+#Usando o monitoramento do Advisor
+https://portal.azure.com/?source=akams%2F#view/Microsoft_Azure_Expert/AdvisorMenuBlade/~/overview
+
+![image](https://github.com/ricardonunesoficial/CloudAz900/assets/146678112/082bc86a-9f05-47db-b7d8-7e828849a359)
+
+
